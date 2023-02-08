@@ -10,11 +10,11 @@ How to run the project
 
 You can use VS Code 2022 or latest
 
-1. cd to the directory where project is located.\
-2. activate your virtualenv.\
-3. run: pip install -r requirements.txt in your shell.\
-4. run: python manage.py makemigrations\
-5. run: python manage.py migrate\
-6. run: python runserver\
+1. cd to the directory where project is located.
+2. activate your virtualenv.
+3. run: pip install -r requirements.txt in your shell.
+4. run: python manage.py makemigrations
+5. run: python manage.py migrate
+6. run: python runserver
 
 make sure python and pip are install in your machine
